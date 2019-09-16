@@ -1,0 +1,44 @@
+{
+"The most popular guns in the world" : [
+    {
+      "Name of gun" : "M16",
+      "Type" : "Assault rifle",
+      "Caliber" : "5.56 mm",
+      "Place of origin" : "United States",
+      "The civilian version of the weapon" : "Yes",
+      "In service" : "1964"
+    },
+    {
+      "Name of gun" : "AK-74",
+      "Type" : "Assault rifle",
+      "Caliber" : "5.45 mm",
+      "Place of origin" : "Soviet Union",
+      "The civilian version of the weapon" : "Yes",
+      "In service" : "1974"
+    },
+    {
+      "Name of gun" : "Glock",
+      "Type" : "Semi-automatic pistol/Machine pistol(glock-18)",
+      "Caliber" : "9mm / 10mm Auto / .45 ACP /  .40 S&W / .380 ACP / .357 SIG / .45 GAP",
+      "Place of origin" : "Austria",
+      "The civilian version of the weapon" : "Yes",
+      "In service" : "1982"
+    },
+    {
+      "Name of gun" : "FAL",
+      "Type" : "Battle rifle",
+      "Caliber" : "7.62 NATO",
+      "Place of origin" : "Belgium",
+      "The civilian version of the weapon" : "Yes",
+      "In service" : "1953"
+    },
+    {
+      "Name of gun" : "PKP Pecheneg",
+      "Type" : "Medium machine gun",
+      "Caliber" : "7.62 mm",
+      "Place of origin" : "Russia",
+      "The civilian version of the weapon" : "No",
+      "In service" : "2001"
+    }
+  ]
+}
